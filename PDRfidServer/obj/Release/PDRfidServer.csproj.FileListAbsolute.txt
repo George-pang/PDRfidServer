@@ -22,3 +22,6 @@ D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\PDRfidServer\obj\R
 D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\PDRfidServer\obj\Release\PDRfidServer.csproj.GenerateResource.Cache
 D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\PDRfidServer\obj\Release\PDRfidServer.exe
 D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\PDRfidServer\obj\Release\PDRfidServer.pdb
+C:\Users\georg\Desktop\PDRfidServer\PDRfidServer\bin\Release\PDRfidServer.exe.config
+C:\Users\georg\Desktop\PDRfidServer\PDRfidServer\obj\Release\PDRfidServer.exe
+C:\Users\georg\Desktop\PDRfidServer\PDRfidServer\obj\Release\PDRfidServer.pdb
