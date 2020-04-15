@@ -1,0 +1,11 @@
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\TcpTerminalComm\bin\Release\TcpTerminalComm.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\TcpTerminalComm\bin\Release\TcpTerminalComm.pdb
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\TcpTerminalComm\bin\Release\Model.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\TcpTerminalComm\bin\Release\Utility.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\TcpTerminalComm\bin\Release\log4net.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\TcpTerminalComm\bin\Release\Model.pdb
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\TcpTerminalComm\bin\Release\Utility.pdb
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\TcpTerminalComm\bin\Release\log4net.xml
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\TcpTerminalComm\obj\Release\TcpTerminalComm.csprojResolveAssemblyReference.cache
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\TcpTerminalComm\obj\Release\TcpTerminalComm.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\TcpTerminalComm\obj\Release\TcpTerminalComm.pdb

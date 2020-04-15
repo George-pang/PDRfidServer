@@ -1,0 +1,11 @@
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\DAL\bin\Debug\DAL.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\DAL\bin\Debug\DAL.pdb
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\DAL\bin\Debug\Model.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\DAL\bin\Debug\Utility.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\DAL\bin\Debug\log4net.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\DAL\bin\Debug\Model.pdb
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\DAL\bin\Debug\Utility.pdb
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\DAL\bin\Debug\log4net.xml
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\DAL\obj\Debug\DAL.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\DAL\obj\Debug\DAL.pdb

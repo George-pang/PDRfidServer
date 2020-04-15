@@ -1,0 +1,17 @@
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\bin\Debug\BLL.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\bin\Debug\BLL.pdb
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\bin\Debug\Anchor120.InnerComm.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\bin\Debug\Anchor120V7.InnerComm.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\bin\Debug\DAL.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\bin\Debug\Model.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\bin\Debug\TcpTerminalComm.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\bin\Debug\Utility.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\bin\Debug\log4net.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\bin\Debug\DAL.pdb
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\bin\Debug\Model.pdb
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\bin\Debug\TcpTerminalComm.pdb
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\bin\Debug\Utility.pdb
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\bin\Debug\log4net.xml
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\obj\Debug\BLL.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\BLL\obj\Debug\BLL.pdb

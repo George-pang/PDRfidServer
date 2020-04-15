@@ -1,0 +1,5 @@
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\Model\bin\Debug\Model.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\Model\bin\Debug\Model.pdb
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\Model\obj\Debug\Model.dll
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\Model\obj\Debug\Model.pdb
+D:\PLQ_Work\Anchor\Projects\浦东120\RFID服务\PDRfidServer\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
